@@ -1,0 +1,4 @@
+2024-01-19 18:52:51 - Amount: 100, Category: money
+2024-01-19 18:54:51 - Amount: 1000 , Category: book
+2024-01-19 18:55:11 - Amount: lunch, Category: 100
+2024-01-19 20:04:12 - Amount: 200, Category: fruits
